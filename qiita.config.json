@@ -1,4 +1,4 @@
 {
-  "includePrivate": false,
+  "includePrivate": true,
   "port": 8888
 }
